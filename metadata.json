@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Biblioteca Libre PDF",
+  "description": "Biblioteca digital de Rios Consultores (Abogado en ruta) nativa en Android con Jetpack Compose para descargar guías y plantillas legales gratuitas. Exige registro obligatorio para descargar y exportar documentos PDF reales personalizados con marca de agua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
